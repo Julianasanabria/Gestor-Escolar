@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="90" />
+  <div style="font-size: 80px;">🏫</div>
   <h1>EduGestion API • Backend</h1>
   
   <p>
@@ -17,7 +17,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Características Clave
+## 🚀 Características Clave
 
 *   **🔐 Autenticación y Seguridad:** Registro e inicio de sesión seguros con cifrado de contraseñas mediante **Bcrypt** y autorización basada en roles utilizando **JSON Web Tokens (JWT)**.
 *   **📚 Gestión de Carga Académica:** Asignación flexible de docentes a grupos, sedes y asignaturas específicas.
@@ -29,7 +29,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /> Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -43,7 +43,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Folder" width="25" /> Arquitectura del Proyecto (MVC)
+## 📂 Arquitectura del Proyecto (MVC)
 
 El proyecto sigue una estructura limpia y mantenible basada en **Modelo-Vista-Controlador (MVC)**:
 
@@ -62,7 +62,7 @@ El proyecto sigue una estructura limpia y mantenible basada en **Modelo-Vista-Co
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Vertical%20Traffic%20Light.png" alt="Traffic Light" width="25" /> Endpoints Principales
+## 🚦 Endpoints Principales
 
 | Entidad | Endpoint Base | Operaciones Soportadas |
 | :--- | :--- | :--- |
@@ -77,7 +77,7 @@ El proyecto sigue una estructura limpia y mantenible basada en **Modelo-Vista-Co
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> Instalación Local
+## ⚙️ Instalación Local
 
 1. **Clonar el repositorio:**
    ```bash
@@ -110,7 +110,7 @@ El proyecto sigue una estructura limpia y mantenible basada en **Modelo-Vista-Co
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Glowing%20Star.png" alt="Star" width="25" /> Buenas Prácticas Implementadas
+## 🌟 Buenas Prácticas Implementadas
 
 - **Clean Code & SOLID:** Separación de responsabilidades.
 - **Seguridad Activa:** Verificación JWT y roles jerárquicos.
@@ -119,7 +119,7 @@ El proyecto sigue una estructura limpia y mantenible basada en **Modelo-Vista-Co
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="Silhouette" width="25" /> Liderazgo y Desarrollo
+## 👤 Liderazgo y Desarrollo
 
 Este sistema fue desarrollado como proyecto final de grado, marcando un paso invaluable en mi aprendizaje y mi transición hacia el desarrollo de software profesional. 
 
